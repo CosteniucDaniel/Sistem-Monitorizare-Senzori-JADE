@@ -1,0 +1,9 @@
+1. descarca ollama
+2. deschide cmd
+3. scrie in cmd ollama pull llama3.2
+4. deschide intellij, in dreapta sus dai pe run configuration
+5. la build and run pui ruta jade.Boot
+6. la arguments pui -gui
+                    -agents
+                    "Controller:ControllerAgent;Logger:LoggerAgent;Senzori:MultiSenzorAgent"
+7. dai apply si apoi ok si apoi run
