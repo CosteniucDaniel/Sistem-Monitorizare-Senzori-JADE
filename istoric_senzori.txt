@@ -1,0 +1,47 @@
+[2026-01-12T10:59:51.590137100] {"tip": "Temperatura", "valoare": 20, "unitate": "°C"}
+[2026-01-12T10:59:51.591140100] {"tip": "Umiditate", "valoare": 45, "unitate": "%"}
+[2026-01-12T10:59:51.592138] {"tip": "Presiune", "valoare": 1013, "unitate": "hPa"}
+[2026-01-12T10:59:58.308996400] ((result (action (agent-identifier :name df@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) (search (df-agent-description :services (set (service-description :type logger-service))) (search-constraints :max-results -1))) (sequence (df-agent-description :name (agent-identifier :name Logger@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) :services (set (service-description :name salvare-istoric :type logger-service))))))
+[2026-01-12T11:00:01.198003] ( (action ( agent-identifier :name Controller@192.168.1.135:1099/JADE  :addresses (sequence http://DESKTOP-B11P8FL:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name Senzori@192.168.1.135:1099/JADE ) (internal-error "Agent not found: getContainerID() failed to find agent Senzori@192.168.1.135:1099/JADE")) )
+[2026-01-12T11:00:02.201848900] ((result (action (agent-identifier :name df@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) (search (df-agent-description :services (set (service-description :type logger-service))) (search-constraints :max-results -1))) (sequence (df-agent-description :name (agent-identifier :name Logger@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) :services (set (service-description :name salvare-istoric :type logger-service))))))
+[2026-01-12T11:00:07.559286100] ( (action ( agent-identifier :name Controller@192.168.1.135:1099/JADE  :addresses (sequence http://DESKTOP-B11P8FL:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name Senzori@192.168.1.135:1099/JADE ) (internal-error "Agent not found: getContainerID() failed to find agent Senzori@192.168.1.135:1099/JADE")) )
+[2026-01-12T11:00:08.563595700] ((result (action (agent-identifier :name df@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) (search (df-agent-description :services (set (service-description :type logger-service))) (search-constraints :max-results -1))) (sequence (df-agent-description :name (agent-identifier :name Logger@192.168.1.135:1099/JADE :addresses (sequence http://DESKTOP-B11P8FL:7778/acc)) :services (set (service-description :name salvare-istoric :type logger-service))))))
+[2026-01-12T11:00:51.072688700] {"tip": "Temperatura", "valoare": 20, "unitate": "°C"}
+[2026-01-12T11:00:51.073688700] {"tip": "Umiditate", "valoare": 45, "unitate": "%"}
+[2026-01-12T11:00:51.075688500] {"tip": "Presiune", "valoare": 1013, "unitate": "hPa"}
+[2026-01-12T11:00:59.077258900] {"tip": "Temperatura", "valoare": 200, "unitate": "°C"}
+[2026-01-12T11:00:59.079259] {"tip": "Umiditate", "valoare": 150, "unitate": "%"}
+[2026-01-12T11:00:59.080258800] {"tip": "Presiune", "valoare": 2000, "unitate": "hPa"}
+[2026-01-12T11:01:07.074650900] {"tip": "Temperatura", "valoare": 200, "unitate": "°C"}
+[2026-01-12T11:01:07.076652100] {"tip": "Umiditate", "valoare": 150, "unitate": "%"}
+[2026-01-12T11:01:07.077651100] {"tip": "Presiune", "valoare": 2000, "unitate": "hPa"}
+[2026-01-12T11:01:15.089604200] {"tip": "Temperatura", "valoare": 13, "unitate": "°C"}
+[2026-01-12T11:01:15.090636300] {"tip": "Umiditate", "valoare": -50, "unitate": "%"}
+[2026-01-12T11:01:15.092250600] {"tip": "Presiune", "valoare": -500, "unitate": "hPa"}
+[2026-01-12T11:01:23.089745600] {"tip": "Temperatura", "valoare": 32, "unitate": "°C"}
+[2026-01-12T11:01:23.090264500] {"tip": "Umiditate", "valoare": -50, "unitate": "%"}
+[2026-01-12T11:01:23.091312600] {"tip": "Presiune", "valoare": -500, "unitate": "hPa"}
+[2026-01-12T11:01:31.105669700] {"tip": "Temperatura", "valoare": 23, "unitate": "°C"}
+[2026-01-12T11:01:31.106667300] {"tip": "Umiditate", "valoare": -50, "unitate": "%"}
+[2026-01-12T11:01:31.108667900] {"tip": "Presiune", "valoare": -500, "unitate": "hPa"}
+[2026-01-12T11:01:39.116476500] {"tip": "Temperatura", "valoare": 23, "unitate": "°C"}
+[2026-01-12T11:01:39.117474] {"tip": "Umiditate", "valoare": 46, "unitate": "%"}
+[2026-01-12T11:01:39.118473600] {"tip": "Presiune", "valoare": 437, "unitate": "hPa"}
+[2026-01-12T11:03:20.253137600] {"tip": "Temperatura", "valoare": 20, "unitate": "°C"}
+[2026-01-12T11:03:20.254133800] {"tip": "Umiditate", "valoare": 45, "unitate": "%"}
+[2026-01-12T11:03:20.256133900] {"tip": "Presiune", "valoare": 1013, "unitate": "hPa"}
+[2026-01-12T11:03:28.258066300] {"tip": "Temperatura", "valoare": 200, "unitate": "°C"}
+[2026-01-12T11:03:28.260066500] {"tip": "Umiditate", "valoare": 134, "unitate": "%"}
+[2026-01-12T11:03:28.261066] {"tip": "Presiune", "valoare": 2000, "unitate": "hPa"}
+[2026-01-12T11:03:36.274690100] {"tip": "Temperatura", "valoare": -100, "unitate": "°C"}
+[2026-01-12T11:03:36.276248400] {"tip": "Umiditate", "valoare": -50, "unitate": "%"}
+[2026-01-12T11:03:36.277281400] {"tip": "Presiune", "valoare": -500, "unitate": "hPa"}
+[2026-01-12T11:03:44.275146200] {"tip": "Temperatura", "valoare": 22, "unitate": "°C"}
+[2026-01-12T11:03:44.276146200] {"tip": "Umiditate", "valoare": 27, "unitate": "%"}
+[2026-01-12T11:03:44.278143900] {"tip": "Presiune", "valoare": 758, "unitate": "hPa"}
+[2026-01-12T13:44:50.748739] {"tip": "Temperatura", "valoare": 20, "unitate": "°C"}
+[2026-01-12T13:44:50.750732700] {"tip": "Umiditate", "valoare": 45, "unitate": "%"}
+[2026-01-12T13:44:50.752733300] {"tip": "Presiune", "valoare": 2000, "unitate": "hPa"}
+[2026-01-12T13:49:34.597238300] {"tip": "Temperatura", "valoare": 20, "unitate": "°C"}
+[2026-01-12T13:49:34.599235300] {"tip": "Umiditate", "valoare": 45, "unitate": "%"}
+[2026-01-12T13:49:34.600234500] {"tip": "Presiune", "valoare": 1013, "unitate": "hPa"}
